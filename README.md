@@ -9,13 +9,13 @@ CARA install Bot Jualan SSH & XRAY
 wget -q https://github.com/Anggabayuwijaya599/bot-jualan/raw/refs/heads/main/update && chmod +x update && ./update
 ```
 
-## 3.Setelah Install Masukan qris pembayaran manual ke dalam folder atau kyt.zip yang berada di 
+## 3.Setelah Install Masukan Gambar Barcode qris pembayaran manual ke dalam folder atau kyt.zip yang berada di 
 
 - kyt
 - modules
 - qris
   
-buat nama file "qris.jpg" masukan ke dalam folder QRIS
+buat nama file "qris.jpg" masukan ke dalam folder QRIS ( ingat harus format  qris.jpg )
 
 
 # SCRIPT BOT TELEGRAM SSH & XRAY PENJUALAN SIAP DI GUNAKAN
