@@ -11,9 +11,10 @@ wget -q https://github.com/Anggabayuwijaya599/bot-jualan/raw/refs/heads/main/upd
 
 ## 3.Setelah Install Masukan qris pembayaran manual ke dalam folder atau kyt.zip yang berada di 
 
->>> \kyt
->>> \modules
->>> \qris
+- kyt
+- modules
+- qris
+- 
 buat nama file "qris.jpg" masukan ke dalam folder QRIS
 
 
