@@ -14,7 +14,7 @@ wget -q https://github.com/Anggabayuwijaya599/bot-jualan/raw/refs/heads/main/upd
 - kyt
 - modules
 - qris
-- 
+  
 buat nama file "qris.jpg" masukan ke dalam folder QRIS
 
 
