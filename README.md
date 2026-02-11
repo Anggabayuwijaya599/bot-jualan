@@ -19,3 +19,10 @@ masukan file gambar barcode "qris.jpg" masukan ke dalam folder QRIS ( ingat haru
 
 
 # SCRIPT BOT TELEGRAM SSH & XRAY PENJUALAN SIAP DI GUNAKAN
+
+
+## Gunakan ini kalo terjadi kesalahan pasang 2 bot
+
+```
+rm -f /usr/bin/ddsdswl.session
+```
