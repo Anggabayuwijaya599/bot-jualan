@@ -73,7 +73,7 @@ res1() {
 
     # 4. DOWNLOAD KYT.ZIP DARI GITHUB
     # Menggunakan URL yang diminta
-    wget -q -O /root/kyt.zip "https://github.com/Anggabayuwijaya599/bot-jualan/raw/refs/heads/main/kyt.zipzip"
+    wget -q -O /root/kyt.zip "https://github.com/Anggabayuwijaya599/bot-jualan/raw/refs/heads/main/kyt.zip"
     
     # 5. EKSTRAK FILE
     # Unzip ke folder sementara dulu untuk cek struktur
