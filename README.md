@@ -26,3 +26,8 @@ masukan file gambar barcode "qris.jpg" masukan ke dalam folder QRIS ( ingat haru
 ```
 rm -f /usr/bin/ddsdswl.session
 ```
+## Gunakan ini untuk restart UDP custom yg tidak berjalan 
+
+```
+systemctl restart udp-custom
+```
