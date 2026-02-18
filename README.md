@@ -60,7 +60,7 @@ Untuk mengaktifkan fitur remote ini, pastikan modul **Paramiko** sudah terinstal
 
 ```bash
 pip3 install paramiko
-
+```
 
 
 
