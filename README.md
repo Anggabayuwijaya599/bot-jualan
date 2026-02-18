@@ -31,3 +31,35 @@ rm -f /usr/bin/ddsdswl.session
 ```
 systemctl restart udp-custom
 ```
+
+
+
+# 🚀 Update February 2026: Multi-VPS Server Support (v7.5)
+
+Fitur terbaru telah hadir! Kini **Bot Premium Management** mendukung integrasi **Multi-VPS Server**. Anda dapat mengelola pembuatan akun VPN di berbagai lokasi server hanya melalui satu Bot pusat secara otomatis.
+
+---
+
+### 🌟 Fitur Unggulan Multi-Server
+- **Remote Account Deployment:** Membuat akun SSH, Vmess, Vless, dan Trojan di server SG secara otomatis dari VPS pusat.
+- **Centralized Management:** Cukup instal bot di satu VPS, kendalikan hingga banyak VPS remote sekaligus.
+- **Auto-Sync Link:** Mengambil output link config secara real-time dari server target.
+- **Interactive Server Selection:** Memungkinkan user memilih lokasi server favorit melalui menu kategori.
+
+### 📡 Lokasi Server yang Didukung
+Kini tersedia 4 pilihan server untuk memanjakan user Anda:
+
+| Server | Lokasi | Flag | Status |
+| :--- | :--- | :--- | :--- |
+| **Server Pusat** | Indonesia | 🇮🇩 | `Active` |
+| **Server SG-1** | Singapore | 🇸🇬 | `Active` |
+| **Server SG-2** | Singapore | 🇸🇬 | `Active` |
+| **Server SG-3** | Singapore | 🇸🇬 | `Active` |
+
+---
+
+### 🛠️ Kebutuhan Sistem (Prerequisites)
+Untuk mengaktifkan fitur remote ini, pastikan modul **Paramiko** sudah terinstall di VPS pusat:
+
+```bash
+pip3 install paramiko
