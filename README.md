@@ -18,9 +18,6 @@ wget -q https://github.com/Anggabayuwijaya599/bot-jualan/raw/refs/heads/main/upd
 masukan file gambar barcode "qris.jpg" masukan ke dalam folder QRIS ( ingat harus format  qris.jpg )
 
 
-# SCRIPT BOT TELEGRAM SSH & XRAY PENJUALAN SIAP DI GUNAKAN
-
-
 ## Gunakan ini kalo terjadi kesalahan pasang 2 bot
 
 ```
@@ -63,3 +60,9 @@ Untuk mengaktifkan fitur remote ini, pastikan modul **Paramiko** sudah terinstal
 
 ```bash
 pip3 install paramiko
+
+
+
+
+# SCRIPT BOT TELEGRAM SSH & XRAY PENJUALAN SIAP DI GUNAKAN
+
